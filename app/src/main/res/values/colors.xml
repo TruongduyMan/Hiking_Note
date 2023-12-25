@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="greenLight">#B3ED9D</color>
+    <color name="pinkLight">#F3BABA</color>
+    <color name="blueLight">#81A5ED</color>
+    <color name="purple">#C76FD1</color>
+    <color name="greenLight1">#C8D688</color>
+    <color name="grayGreen">#A1AE6D</color>
+    <color name="green">#7EE16D</color>
+    <color name="olu">#ABB383</color>
+    <color name="PictonBlue">#29d0ec</color>
+    <color name="RoyalBlue">#6C9BEC</color>
+
+</resources>
